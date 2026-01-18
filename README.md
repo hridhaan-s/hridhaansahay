@@ -1,4 +1,4 @@
-## hey, I’m Hridhaan 👋
+## hey, I’m Hridhaan 
 
 I’m a student who enjoys building things and figuring stuff out along the way.  
 Most of my work sits at the intersection of **tech, engineering, and curiosity**.
@@ -14,10 +14,9 @@ Most of my work sits at the intersection of **tech, engineering, and curiosity**
 If you’re curious about what I’m building right now,  
 You can more context on my website.
 
-<p align="left">
-  <a href="https://hridhaan.bitbuzz.club/" target="_blank">
-    <img src="https://img.shields.io/badge/visit%20my%20website-%23f5c542?style=for-the-badge&logo=google-chrome&logoColor=black" />
-  </a>
-</p>
+<a href="https://hridhaan.bitbuzz.club/" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20My%20Website-CLICK?style=for-the-badge&color=FFD700&logo=google-chrome&logoColor=000" />
+</a>
+
 
 Thanks for stopping by :)
